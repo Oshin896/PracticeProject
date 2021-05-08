@@ -1,0 +1,24 @@
+
+3
+java:S1659"Declare "l" on a separate line.(Ê¸™Å
+L	java:S106"9Replace this use of System.out or System.err by a logger.(…ÖÓÿ
+3
+java:S1659"Declare "r" on a separate line.(²åİŒ
+3
+java:S1659"Declare "r" on a separate line.(Ê¸™Å
+D
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+O	java:S125"<This block of commented-out lines of code should be removed.(°º´£
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ÁË“œ
+3
+java:S1659"Declare "l" on a separate line.(²åİŒ
+m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ò†ˆ
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÖßøûÿÿÿÿ
+B
+java:S1172".Remove this unused method parameter "element".(Œ‘…ı
+Q
+java:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ
+v
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "index".(´Ä§Ìıÿÿÿÿ
+?
+java:S1172"&Remove these unused method parameters.(êòäËÿÿÿÿÿ

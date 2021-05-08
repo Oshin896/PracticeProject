@@ -1,0 +1,5 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºüÝ¾þÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(º·¿Ê8¿­£ëê.
+Z
+java:S1197	"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8èŸÜêê.

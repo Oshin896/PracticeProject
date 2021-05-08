@@ -1,0 +1,43 @@
+
+Z
+java:S1197
+"8Move the array designator from the variable to the type.(Œ˜¿Şûÿÿÿÿ8¦Ùòäæ.
+J
+java:S1444
+"(Make this "public static db" field final(Œ˜¿Şûÿÿÿÿ8¦Ùòäæ.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ù”óçæ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(Á®»Áÿÿÿÿÿ8¦Ùòäæ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ×‚ÿÿÿÿÿ8Ä±«ãæ.
+H
+java:S1659"&Declare "rowIndex" on a separate line.(˜üˆ÷úÿÿÿÿ8š‚²ãæ.
+?
+java:S2386
+"Make this member "protected".(Œ˜¿Şûÿÿÿÿ8¦Ùòäæ.
+n
+java:S3008"LRename this field "S" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á®»Áÿÿÿÿÿ8¦Ùòäæ.
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(Ä©‚šÿÿÿÿÿ8‰Âçæ.
+?
+java:S2386"Make this member "protected".(Á®»Áÿÿÿÿÿ8¦Ùòäæ.
+z
+java:S1845	"XRename field "s" to prevent any misunderstanding/clash with field "S" defined on line 8.(òÜàÙûÿÿÿÿ8¦Ùòäæ.
+o
+java:S1104"MMake S a static final constant or non-public and provide accessors if needed.(Á®»Áÿÿÿÿÿ8¦Ùòäæ.
+r	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦”•Ÿùÿÿÿÿ8àËºçæ.
+F
+java:S1125 ")Remove the literal "false" boolean value.(É‚§8ÂÌ²çæ.
+I
+java:S1444	"'Make this "public static s" field final(òÜàÙûÿÿÿÿ8¦Ùòäæ.
+P
+java:S1144".Remove this unused private "subsetSum" method.(İ×‚ÿÿÿÿÿ8ªÍ´‡ç.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(é‰¯ÿÿÿÿÿ8ÂÌ²çæ.
+o
+java:S1104	"MMake s a static final constant or non-public and provide accessors if needed.(òÜàÙûÿÿÿÿ8¦Ùòäæ.
+I
+java:S1444"'Make this "public static S" field final(Á®»Áÿÿÿÿÿ8¦Ùòäæ.
+X	java:S125O"<This block of commented-out lines of code should be removed.(İ Å—8úø¶çæ.
+p
+java:S1104
+"NMake db a static final constant or non-public and provide accessors if needed.(Œ˜¿Şûÿÿÿÿ8¦Ùòäæ.
+]	java:S125"<This block of commented-out lines of code should be removed.(¶¡û€şÿÿÿÿ8ªÍ´‡ç.

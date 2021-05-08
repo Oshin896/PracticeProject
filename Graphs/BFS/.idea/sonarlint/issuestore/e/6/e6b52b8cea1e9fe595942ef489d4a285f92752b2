@@ -1,0 +1,11 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(ÆÇ”õ8ÄÕšşê.
+m	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶×åä8íÿâ’ë.
+U
+java:S11970"8Move the array designator from the variable to the type.(¶×åä8íÿâ’ë.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ŞÆ¶ùÿÿÿÿ
+U
+java:S11975"8Move the array designator from the variable to the type.(·óĞ¤8Ø–“ë.
+X	java:S125y"<This block of commented-out lines of code should be removed.(ğ“«¼8ƒÿ””ë.
+t
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(„—ÅÚıÿÿÿÿ8ú€ş“ë.

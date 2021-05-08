@@ -1,0 +1,18 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÕùíÀúÿÿÿÿ8â¦Ş›ö.
+
+java:S13197"lThe type of the "f" object should be an interface such as "List" rather than the implementation "ArrayList".( µÍ¸ùÿÿÿÿ8â¦Ş›ö.
+>
+java:S1643B"Use a StringBuilder instead.(şÏöÿÿÿÿÿ8Ğùè›ö.
+Z
+java:S1197"8Move the array designator from the variable to the type.(ûçøúÿÿÿÿ8â¦Ş›ö.
+L
+java:S3740"/Provide the parametrized type for this generic.(Ô¦¬8îíß›ö.
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ğ¸Ş…8â¦Ş›ö.
+‹
+java:S1319"nThe type of the "arr" object should be an interface such as "List" rather than the implementation "ArrayList".(ğ¸Ş…8â¦Ş›ö.
+D
+java:S16598""Declare "pref" on a separate line.(ŒÀºşûÿÿÿÿ8â¦Ş›ö.
+>
+java:S1643?"Use a StringBuilder instead.(şÏöÿÿÿÿÿ8ôâè›ö.

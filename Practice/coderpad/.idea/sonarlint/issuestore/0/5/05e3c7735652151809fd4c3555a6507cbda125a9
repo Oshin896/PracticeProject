@@ -1,0 +1,15 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°›Ε£ώÿÿÿÿ
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(ªΣΌαώÿÿÿÿ8§†Αν.
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(η‘›·ώÿÿÿÿ8§†Αν.
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(ªΣΌαώÿÿÿÿ8§†Αν.
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(μι•±ωÿÿÿÿ8§†Αν.
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(¦λρ³ϋÿÿÿÿ8§†Αν.
+U
+java:S1197a"8Move the array designator from the variable to the type.(γΈΟ8§†Αν.
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(―“”·8ΪΫν.
+U
+java:S1197"8Move the array designator from the variable to the type.(λ¥Ο§8§†Αν.
+[
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(‘δΦ8ΪΫν.

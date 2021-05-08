@@ -1,0 +1,12 @@
+
+U
+java:S1197"8Move the array designator from the variable to the type.(Ğ™”™8°ìõˆç.
+T	java:S106,"9Replace this use of System.out or System.err by a logger.(«ŞÀ8èí¤Šç.
+U
+java:S1197	"8Move the array designator from the variable to the type.(‰‹Ãß8íŞóˆç.
+U
+java:S1197
+"8Move the array designator from the variable to the type.(ºœ8íŞóˆç.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(†ñÀÌıÿÿÿÿ8€…Šç.
+‹
+java:S1319#"nThe type of the "arr" object should be an interface such as "List" rather than the implementation "ArrayList".(š£à¶8€…Šç.

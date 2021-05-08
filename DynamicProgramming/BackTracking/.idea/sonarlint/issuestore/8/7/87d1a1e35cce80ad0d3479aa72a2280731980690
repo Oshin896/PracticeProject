@@ -1,0 +1,9 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÙ•¦şÿÿÿÿ8—«ëÌç.
+Z
+java:S1197"8Move the array designator from the variable to the type.(ê—¶Ñüÿÿÿÿ8ÓœÌç.
+i
+java:S3973."GUse indentation to denote the code conditionally executed by this "if".(Òã°¾üÿÿÿÿ8Ş—¼Íç.
+T
+java:S1197	"8Move the array designator from the variable to the type.(áú·8»¬¤Ìç.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(®äáï8Œã¯Ìç.

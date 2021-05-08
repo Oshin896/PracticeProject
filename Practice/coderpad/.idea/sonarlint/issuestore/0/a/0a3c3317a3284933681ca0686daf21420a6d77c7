@@ -1,0 +1,21 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Î¦Ç þÿÿÿÿ8Ô™Â¹ì.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8Ô™Â¹ì.
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(Ó¨ø¡ùÿÿÿÿ8Ô™Â¹ì.
+]	java:S125"<This block of commented-out lines of code should be removed.(€ùÞÌýÿÿÿÿ8Ô™Â¹ì.
+\
+java:S1854:":Remove this useless assignment to local variable "llist3".(‚„Üèøÿÿÿÿ8Ô™Â¹ì.
+Z
+java:S1197*"8Move the array designator from the variable to the type.(º ìýÿÿÿÿ8Ô™Â¹ì.
+]	java:S125"<This block of commented-out lines of code should be removed.(Ÿ¾ÜŠÿÿÿÿÿ8Ô™Â¹ì.
+W
+java:S18548":Remove this useless assignment to local variable "llist1".(ä¬×Í8Ô™Â¹ì.
+M
+java:S1481:"+Remove this unused "llist3" local variable.(‚„Üèøÿÿÿÿ8Ô™Â¹ì.
+W
+java:S18549":Remove this useless assignment to local variable "llist2".(ÕÉ¨œ8Ô™Â¹ì.
+H
+java:S14818"+Remove this unused "llist1" local variable.(ä¬×Í8Ô™Â¹ì.
+H
+java:S14819"+Remove this unused "llist2" local variable.(ÕÉ¨œ8Ô™Â¹ì.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ì ã8Ô™Â¹ì.

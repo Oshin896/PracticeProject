@@ -1,0 +1,19 @@
+
+Y
+java:S1854N"7Remove this useless assignment to local variable "res".(ı®†Áøÿÿÿÿ8ãÕ’í.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉêãÚıÿÿÿÿ
+x
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(¦¨şÏùÿÿÿÿ8ãÕ’í.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜ÿ¶äøÿÿÿÿ8ãÕ’í.
+r	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œó¸ìüÿÿÿÿ8ãÕ’í.
+R
+java:S2209O"5Change this instance-reference to a static reference.(ûÍ¯×8ãÕ’í.
+{
+java:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(ı®†Áøÿÿÿÿ8ãÕ’í.
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ãÕ’í.
+Q
+java:S2440K"/Remove this instantiation of "NodeAtKDistance".(œó¸ìüÿÿÿÿ8ãÕ’í.
+U
+java:S1197B"8Move the array designator from the variable to the type.(ã¸Ï8ãÕ’í.
+T	java:S106Q"9Replace this use of System.out or System.err by a logger.(¾öè8ãÕ’í.

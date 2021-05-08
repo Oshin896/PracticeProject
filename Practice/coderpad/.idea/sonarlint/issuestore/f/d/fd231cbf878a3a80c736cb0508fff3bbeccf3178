@@ -1,0 +1,6 @@
+
+U
+java:S1197"8Move the array designator from the variable to the type.(Çé®ü8¢Ô×Åì.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(œ­¾ï8¢Ô×Åì.
+s
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ8¢Ô×Åì.

@@ -1,0 +1,15 @@
+
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¦•âüÿÿÿÿ8ôºÈÑ‚.
+V
+squid:S106?"9Replace this use of System.out or System.err by a logger.(‹óµ‘8Õß¯‚.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ÃÁ
+U
+squid:S106B"9Replace this use of System.out or System.err by a logger.(š¡ÿR8Š”ä¯‚.
+[
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ÇŠŒùüÿÿÿÿ8µÅê‚.
+Vsquid:S1854+"9Remove this useless assignment to local variable "node1".(òÇ‰88µÅê‚.
+[squid:S1854#"8Remove this useless assignment to local variable "head".(‘¡–òùÿÿÿÿ8µÅê‚.
+[
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ßşÆäùÿÿÿÿ8µÅê‚.
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ƒ¸ğ®‚.

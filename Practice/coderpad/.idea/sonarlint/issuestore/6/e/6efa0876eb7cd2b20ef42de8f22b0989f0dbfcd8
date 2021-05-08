@@ -1,0 +1,17 @@
+
+
+java:S1319+"nThe type of the "arr" object should be an interface such as "List" rather than the implementation "ArrayList".(—¿í›ûÿÿÿÿ8“ƒáÑô.
+’
+java:S1319+"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(—¿í›ûÿÿÿÿ8“ƒáÑô.
+Z
+java:S1197M"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ8†šêô.
+{
+java:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").( «ÎŠøÿÿÿÿ8Üâ”êô.
+Z
+java:S1197O"8Move the array designator from the variable to the type.(ûçøúÿÿÿÿ8Æá–êô.
+>
+java:S1643F"Use a StringBuilder instead.(–ìø’üÿÿÿÿ8£ı‰éô.
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(¯Ó²›üÿÿÿÿ8À›˜êô.
+]	java:S125Q"<This block of commented-out lines of code should be removed.(Œ„Îßøÿÿÿÿ8äå•êô.
+>
+java:S1643C"Use a StringBuilder instead.(–ìø’üÿÿÿÿ8¤ä×ìô.

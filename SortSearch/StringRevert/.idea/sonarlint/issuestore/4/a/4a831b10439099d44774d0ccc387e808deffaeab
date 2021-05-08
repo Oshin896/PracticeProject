@@ -1,0 +1,10 @@
+
+9
+java:S1643"Use a StringBuilder instead.(²ñØò8€¼ÿ½æ.
+W
+java:S1854"5Remove this useless assignment to local variable "d".(‹‰‡¹ÿÿÿÿÿ8€¼ÿ½æ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ8€¼ÿ½æ.
+s
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æþÿÿÿÿ8€¼ÿ½æ.
+9
+java:S1643"Use a StringBuilder instead.(ƒŽ•’8€¼ÿ½æ.

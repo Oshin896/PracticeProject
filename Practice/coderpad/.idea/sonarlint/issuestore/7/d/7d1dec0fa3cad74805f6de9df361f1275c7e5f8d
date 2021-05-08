@@ -1,0 +1,10 @@
+
+>
+java:S1643"Use a StringBuilder instead.(ÐŽŠÞüÿÿÿÿ8œñô”ë.
+H
+java:S1481"&Remove this unused "n" local variable.(å¢ÏÌþÿÿÿÿ8œñô”ë.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŽÇŽ¿ýÿÿÿÿ8óûõ”ë.
+W
+java:S1854"5Remove this useless assignment to local variable "n".(å¢ÏÌþÿÿÿÿ8œñô”ë.
+9
+java:S1643"Use a StringBuilder instead.(®É¹ç8œñô”ë.

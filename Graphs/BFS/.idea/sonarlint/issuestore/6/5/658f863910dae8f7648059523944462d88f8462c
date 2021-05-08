@@ -1,0 +1,22 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÇ”õ8×ü•úê.
+J
+java:S1144"-Remove this unused private "shortest" method.(ÆÇ”õ8œ¦şê.
+L
+java:S10664"/Merge this if statement with the enclosing one.(ğª¦©8×ü•úê.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ŞÆ¶ùÿÿÿÿ
+T
+java:S1197"8Move the array designator from the variable to the type.(õà§~8×ü•úê.
+U
+java:S1197"8Move the array designator from the variable to the type.(ÆÇ”õ8×ü•úê.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÏœ•8×ü•úê.
+T
+java:S1197""8Move the array designator from the variable to the type.(¸âİ{8×ü•úê.
+E
+java:S2440"(Remove this instantiation of "Solution".(ÿÏœ•8œ¦şê.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÆÇ”õ8×ü•úê.
+R
+java:S2209"5Change this instance-reference to a static reference.(ÿÏœ•8œ¦şê.
+^
+java:S1126D"AReplace this if-then-else statement by a single return statement.(¼·Ó¨8×ü•úê.

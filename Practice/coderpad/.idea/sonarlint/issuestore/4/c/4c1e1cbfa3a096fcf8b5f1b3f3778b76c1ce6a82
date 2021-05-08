@@ -1,0 +1,11 @@
+
+c
+java:S1126"AReplace this if-then-else statement by a single return statement.(àŠ¯ıÿÿÿÿ8‰‚›µö.
+T
+java:S1197"8Move the array designator from the variable to the type.(·ŠÄ?8‰‚›µö.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(›üè8‰‚›µö.
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(˜œ¬ª8ß¼©µö.
+‰
+java:S11307"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÃĞü8ß¼©µö.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş°¥®øÿÿÿÿ8‰‚›µö.

@@ -1,0 +1,9 @@
+
+c
+java:S1126"AReplace this if-then-else statement by a single return statement.(º€Ûªúÿÿÿÿ8Û§Êè.
+T	java:S106%"9Replace this use of System.out or System.err by a logger.(ØŠÓ"8¯¿ÔÉè.
+U
+java:S11970"8Move the array designator from the variable to the type.(‡şŞ¨8ª÷®Öè.
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(‘Ù“€8Î¡ÚÉè.
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(–ñ–à8ÅÆàËè.
+X	java:S125"<This block of commented-out lines of code should be removed.(¨÷ÿ„8†éÃÊè.

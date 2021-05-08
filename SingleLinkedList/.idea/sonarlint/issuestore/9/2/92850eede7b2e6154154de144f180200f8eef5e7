@@ -1,0 +1,15 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹íâúùÿÿÿÿ8¸Åê‚.
+[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ÚÇ ¯‚.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Î–ò«8‰Ÿ´¯‚.
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(¬Òóûÿÿÿÿ8ì¬î¯‚.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(³Šöû8Ï¯ˆ°‚.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(™£¬‘8Ûö§¯‚.
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ı“óúúÿÿÿÿ8‰‰ƒ°‚.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë·Ó

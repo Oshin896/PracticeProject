@@ -1,0 +1,8 @@
+
+T	java:S106%"9Replace this use of System.out or System.err by a logger.(›‰”8µâêê.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºüİ¾şÿÿÿÿ
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(óƒ˜š8æ¨úêê.
+¤
+java:S2681-"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(ŒÉñ˜8ÀÌšëê.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(ŒÉñ˜8ÀÌšëê.
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(ºï·Á8ƒÀ§êê.

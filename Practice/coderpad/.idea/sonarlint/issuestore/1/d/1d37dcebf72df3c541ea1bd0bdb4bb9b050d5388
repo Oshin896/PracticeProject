@@ -1,0 +1,10 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÓ®–ùÿÿÿÿ8ğ”ôØï.
+U
+java:S1197"8Move the array designator from the variable to the type.(ò¢£»8ğ”ôØï.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÔˆòøÿÿÿÿ8ğ”ôØï.
+Q
+java:S1481"/Remove this unused "max_so_far" local variable.(ÀÓ®–ùÿÿÿÿ8Ì£’Ùï.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(•¿ûŸúÿÿÿÿ8ğ”ôØï.
+`
+java:S1854">Remove this useless assignment to local variable "max_so_far".(ÀÓ®–ùÿÿÿÿ8Ì£’Ùï.

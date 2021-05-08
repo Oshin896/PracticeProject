@@ -1,0 +1,19 @@
+
+_
+java:S1854"BRemove this useless assignment to local variable "curr_max_right".(¤øˆ‡8à ùåë.
+X	java:S125"<This block of commented-out lines of code should be removed.(”¤­Ó8¹İÚæë.
+U
+java:S1197"8Move the array designator from the variable to the type.(‘æ¨¥8•™§åë.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ò“„·şÿÿÿÿ8åÃ åë.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ô­‹åë.
+X	java:S125"<This block of commented-out lines of code should be removed.( ³†˜8ÏúÚæë.
+c
+java:S1854"ARemove this useless assignment to local variable "curr_max_left".(ªÔÀ‰şÿÿÿÿ8¡†øåë.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¾æˆùÿÿÿÿ8•™§åë.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤øˆ‡8ğ®²åë.
+U
+java:S1197"8Move the array designator from the variable to the type.(ò¢£»8ƒŸĞæë.
+m	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×«½¦8úÏÍåë.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÔÀ‰şÿÿÿÿ8•™§åë.
